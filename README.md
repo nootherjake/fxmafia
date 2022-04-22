@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Frameworks,Cryptograpphy, Offensive & Defensive Coding**
 
-- 👯 I’m looking to collaborate on [on projects from OCU](https://github.com/Oklahoma-City-University/softeng)
+- 👯 I’m looking to collaborate on [on projects from OCU](https://github.com/Oklahoma-City-University/softeng) and https://citymarketing.com.ng.
 
 - 👨‍💻 All of my projects are available at [https://skillpatron.com](https://skillpatron.com)
 
